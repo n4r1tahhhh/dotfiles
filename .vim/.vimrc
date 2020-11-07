@@ -75,5 +75,7 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'jistr/vim-nerdtree-tabs'
 " lightline
 Plug 'itchyny/lightline.vim'
+" comfortable-motion
+Plug 'yuttie/comfortable-motion.vim'
 call plug#end()
 
