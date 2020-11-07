@@ -69,6 +69,8 @@ nmap <Esc><Esc> :nohlsearch<CR><Esc>
 
 " plugins
 call plug#begin()
+" coc.nvim
+Plug 'neoclide/coc.nvim'
 " lightline
 Plug 'itchyny/lightline.vim'
 " comfortable-motion
