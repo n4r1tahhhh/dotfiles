@@ -69,10 +69,6 @@ nmap <Esc><Esc> :nohlsearch<CR><Esc>
 
 " plugins
 call plug#begin()
-" nerdtree
-Plug 'scrooloose/nerdtree'
-Plug 'Xuyuanp/nerdtree-git-plugin'
-Plug 'jistr/vim-nerdtree-tabs'
 " lightline
 Plug 'itchyny/lightline.vim'
 " comfortable-motion
