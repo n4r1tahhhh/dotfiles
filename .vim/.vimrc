@@ -27,6 +27,9 @@ set visualbell
 set showmatch
 " ステータスラインを常に表示
 set laststatus=2
+" 折り返し時に表示行単位での移動できるようにする
+nnoremap j gj
+nnoremap k gk
 " 構文毎に文字色を変化させる
 syntax on
 
